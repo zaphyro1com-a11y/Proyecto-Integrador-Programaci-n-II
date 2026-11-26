@@ -3,6 +3,7 @@ package modelo;
 // Responsable de la clase y sus metodos: Rut Cuvi.
 // Modulo 5: estadisticas y reportes basicos.
 import java.util.Scanner;
+import modelo.*;
 
 public class ModuloEstadisticas {
 

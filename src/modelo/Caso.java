@@ -1,3 +1,5 @@
+package modelo;
+
 // ======================================================
 // CLASE HIJA: CASO
 // Utiliza extends para heredar nombre y edad de Persona.

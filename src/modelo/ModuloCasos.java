@@ -1,3 +1,5 @@
+package modelo;
+
 import java.util.Scanner;
 
 // ======================================================
@@ -149,5 +151,8 @@ public class ModuloCasos {
 
     public int getCantidad() {
         return cantidad;
+    }
+
+    public void conectarEvidencias(GestionEvidencias gestionEvidencias) {
     }
 }

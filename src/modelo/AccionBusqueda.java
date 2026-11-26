@@ -1,3 +1,5 @@
+package modelo;
+
 // ======================================================
 // CLASE ACCION DE BUSQUEDA
 // Representa una actividad que se realiza para buscar a alguien.

@@ -1,3 +1,4 @@
+package modelo;
 // ======================================================
 // CLASE AVISTAMIENTO
 // Representa un reporte ciudadano relacionado con un caso.

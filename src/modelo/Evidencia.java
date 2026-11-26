@@ -1,4 +1,4 @@
-
+package modelo;
 // AUTOR: SEBASTIAN PAREDES PACHECO
 // MODULO 3: ORGANIZACION Y REVISION DE EVIDENCIAS
 //REGISTRAR EVIDENCIAS
@@ -73,5 +73,9 @@ public class Evidencia {
         System.out.println("Estado: " + estado);
         System.out.println("Observacion: " + observacion);
         System.out.println("----------------------------");
+    }
+
+    protected String getEvidencia(){
+        return estado;
     }
 }

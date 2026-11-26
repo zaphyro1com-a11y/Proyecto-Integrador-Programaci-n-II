@@ -1,3 +1,5 @@
+package modelo;
+
 // ======================================================
 // CLASE PADRE
 // Contiene los datos generales que puede tener una persona.
